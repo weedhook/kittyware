@@ -8,6 +8,11 @@
     }
   },
   "hood_games": {
+    "117937574891762": {
+      "name": "Da Hood",
+      "ammo": "Ammo",
+      "event": "MainEvent"
+    },
     "2788229376": {
       "name": "Da Hood",
       "ammo": "Ammo",
