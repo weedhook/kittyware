@@ -1,0 +1,18 @@
+{
+    "place_ids": {
+      "2788229376": [
+        {
+          "name": "Da Hood",
+          "Event": "MainEvent",
+          "Ammo": "Tool/Ammo",
+          "Ignored": "Workspace/Ignored"
+        },
+        {
+          "name": "Test",
+          "Event": "Test",
+          "Ammo": "Tool/Test",
+          "Ignored": "Workspace/Test"
+        }
+      ]
+    }
+  }
