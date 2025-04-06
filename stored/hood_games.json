@@ -6,7 +6,7 @@
           "Event": "MainEvent",
           "Ammo": "Tool/Ammo",
           "Ignored": "Workspace/Ignored",
-            "Bullets": "Ignored/BULLET_RAYS"
+            "Bullets": "BULLET_RAYS"
         }
       ],
       "15186202290": [
@@ -15,7 +15,7 @@
             "Event": "MAINEVENT",
             "Ammo": "Tool/AMMO",
             "Ignored": "Workspace",
-            "Bullets": "Ignored/Part"
+            "Bullets": "Part"
         }
       ],
       "9825515356": [
@@ -24,7 +24,7 @@
             "Event": "MainEvent",
             "Ammo": "Tool/Script/Ammo",
             "Ignored": "Workspace/Ignored",
-            "Bullets": "Ignored/BULLET_RAYS"
+            "Bullets": "BULLET_RAYS"
         }
       ]
     }
