@@ -8,10 +8,10 @@
           "Ignored": "Workspace/Ignored"
         },
         {
-          "name": "Test",
-          "Event": "Test",
-          "Ammo": "Tool/Test",
-          "Ignored": "Workspace/Test"
+          "name": "Da Strike",
+          "Event": "MainEvent",
+          "Ammo": "Tool/AMMO",
+          "Ignored": "Workspace"
         }
       ]
     }
