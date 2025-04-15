@@ -1,31 +1,40 @@
 {
-    "place_ids": {
-      "2788229376": [
-        {
-          "Name": "Da Hood",
-          "Event": "MainEvent",
-          "Ammo": "Tool/Ammo",
-          "Ignored": "Workspace/Ignored",
-            "Bullets": "BULLET_RAYS"
-        }
-      ],
-      "15186202290": [
-        {
-            "Name": "Da Strike",
-            "Event": "MAINEVENT",
-            "Ammo": "Tool/AMMO",
-            "Ignored": "Workspace",
-            "Bullets": "Part"
-        }
-      ],
-      "9825515356": [
-        {
-            "Name": "Hood Customs",
-            "Event": "MainEvent",
-            "Ammo": "Tool/Script/Ammo",
-            "Ignored": "Workspace/Ignored",
-            "Bullets": "BULLET_RAYS"
-        }
-      ]
-    }
+  "place_ids": {
+    "2788229376": [
+      {
+        "Name": "Da Hood",
+        "Event": "MainEvent",
+        "Ammo": "Tool/Ammo",
+        "Ignored": "Workspace/Ignored",
+        "Bullets": "BULLET_RAYS"
+      }
+    ],
+    "15186202290": [
+      {
+        "Name": "Da Strike",
+        "Event": "MAINEVENT",
+        "Ammo": "Tool/AMMO",
+        "Ignored": "Workspace",
+        "Bullets": "Part"
+      }
+    ],
+    "9825515356": [
+      {
+        "Name": "Hood Customs",
+        "Event": "MainEvent",
+        "Ammo": "Tool/Script/Ammo",
+        "Ignored": "Workspace/Ignored",
+        "Bullets": "BULLET_RAYS"
+      }
+    ],
+    "79248120150477": [
+      {
+        "Name": "Boom Hood",
+        "Event": "MainEvent",
+        "Ammo": "Tool/Ammo",
+        "Ignored": "Workspace/Ignored",
+        "Bullets": "BULLET_RAYS"
+      }
+    ]
   }
+}
